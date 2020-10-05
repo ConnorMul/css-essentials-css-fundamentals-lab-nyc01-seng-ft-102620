@@ -29,17 +29,12 @@ figcaption {
   margin: 0 auto;
 }
 
-div {
+#details div {
   float: left;
   background-color: red;
   text-align: center;
   width: 25%;
 
-p {
-  text-align: center;
-  margin: 0 auto;
-  width: 500px;
-}
 
 img {
   display: block;
