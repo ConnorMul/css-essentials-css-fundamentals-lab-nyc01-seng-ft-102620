@@ -24,6 +24,9 @@ h1 {
   text-align: center;
 }
 
+div {
+  float: left;
+
 #details {
   display: block;
 }
