@@ -3,7 +3,7 @@ body {
   height: 100%;
   margin: 0;
 }
-a {
+a.center {
   padding-right: 10px;
   padding-left: 10px;
   background-color: grey;
