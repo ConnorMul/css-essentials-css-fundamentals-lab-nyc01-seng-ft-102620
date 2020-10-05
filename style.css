@@ -18,7 +18,8 @@ h1 {
   font-size: 30px;
 }
 
-nav figcaption { 
+nav,
+figcaption { 
  text-align: center;
  font-size: 5px; 
 }
