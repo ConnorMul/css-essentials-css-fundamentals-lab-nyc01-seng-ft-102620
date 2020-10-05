@@ -35,6 +35,6 @@ div {
   display: block;
 }
 
-img {
-  width: 365px; 
+* {
+  text-align: center;
 }
