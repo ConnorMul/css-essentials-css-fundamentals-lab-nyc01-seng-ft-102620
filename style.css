@@ -10,7 +10,7 @@ a {
   text-align: center;
 }
 
-p {
+p.center {
    width: 800px;
    text-align: center;
    color: red;
